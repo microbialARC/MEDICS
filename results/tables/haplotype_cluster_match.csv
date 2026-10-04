@@ -1,0 +1,4 @@
+"condition","description","n_types","n_clusters"
+1,"type reproduces the cluster exactly",11,11
+2,"type is a pure subset of one cluster",138,47
+3,"type holds >=80% of the cluster and <=20% of every other unit",6,6

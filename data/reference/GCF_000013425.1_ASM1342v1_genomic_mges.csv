@@ -1,0 +1,150 @@
+mge_index,start,end,length,bin,bin_gene
+GCF_000013425.1_ASM1342v1_genomic_MGE_1,34167,36465,2299,43-46,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH; TIGR04141 family sporadically distributed protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_2,37004,42666,5663,48-57,putative membrane transporter protein; persulfide-sensing transcriptional repressor CstR; persulfide response sulfurtransferase CstA; persulfide dioxygenase-sulfurtransferase CstB; type II sulfide:quinone oxidoreductase Sqr
+GCF_000013425.1_ASM1342v1_genomic_MGE_3,44521,49271,4751,60-70,TfoX N-terminal domain-containing protein; Major facilitator superfamily (MFS) profile domain-containing protein; Flavodoxin family protein; HTH lysR-type domain-containing protein; DUF4865 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_4,50154,53529,3376,72-74,RecBCD enzyme subunit RecD
+GCF_000013425.1_ASM1342v1_genomic_MGE_5,55701,58020,2320,79-85,Uncharacterized lipoprotein SAS0072; Uncharacterized lipoprotein MW0072; Uncharacterized lipoprotein SAUSA300_0102; Uncharacterized lipoprotein SACOL0083
+GCF_000013425.1_ASM1342v1_genomic_MGE_6,58184,58290,107,85,Uncharacterized lipoprotein SACOL0083
+GCF_000013425.1_ASM1342v1_genomic_MGE_7,68203,70590,2388,97-100,EamA domain-containing protein; HTH-type transcriptional regulator NorG
+GCF_000013425.1_ASM1342v1_genomic_MGE_8,73748,73965,218,105,staphylococcal protein A
+GCF_000013425.1_ASM1342v1_genomic_MGE_9,91159,91579,421,126-128,MFS transporter
+GCF_000013425.1_ASM1342v1_genomic_MGE_10,113772,115370,1599,164-168,hypothetical protein; Replication initiation protein%2C putative; Truncated replication initiation protein%2C putative
+GCF_000013425.1_ASM1342v1_genomic_MGE_11,115505,116203,699,168-170,IS200/IS605 family transposase
+GCF_000013425.1_ASM1342v1_genomic_MGE_12,126758,130826,4069,186-191,Acetyltransferase; Capsular biosynthesis protein; Capsular polysaccharide synthesis enzyme Cap5J; Cap5K
+GCF_000013425.1_ASM1342v1_genomic_MGE_13,173793,174126,334,254-255,hypothetical protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_14,178107,180171,2065,258-262,Sce7726 family protein; Sce7725 family protein; RES domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_15,211831,212966,1136,309,staphylocoagulase
+GCF_000013425.1_ASM1342v1_genomic_MGE_16,256411,256534,124,375,PTS system glucose-specific EIIA component
+GCF_000013425.1_ASM1342v1_genomic_MGE_17,273293,274689,1397,405-409,DUF5079 domain-containing protein; DUF5080 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_18,284613,289666,5054,420-430,type VII secretion system protein EssC%2C FtsK/SpoIIIE family ATPase; type VII secretion system secreted protein EsxC; WXG100 family type VII secretion effector EsxB; type VII secretion system chaperone protein; type VII secretion system secreted protein EsxD; type VII secretion system secreted protein%2C a nuclease toxin EsaD; Type VII secretion system protein EsaG
+GCF_000013425.1_ASM1342v1_genomic_MGE_19,292176,292314,139,438,TIGR01741 family protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_20,292536,293325,790,438-442,TIGR01741 family protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_21,323151,323267,117,495,
+GCF_000013425.1_ASM1342v1_genomic_MGE_22,361913,362984,1072,566-567,Abi family protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_23,363764,364189,426,570-571,staphylococcal enterotoxin-like toxin X
+GCF_000013425.1_ASM1342v1_genomic_MGE_24,390339,397219,6881,626-637,superantigen-like protein SSL3; superantigen-like protein SSL4; superantigen-like protein SSL5; superantigen-like protein SSL6; superantigen-like protein SSL7; superantigen-like protein SSL8
+GCF_000013425.1_ASM1342v1_genomic_MGE_25,400994,402185,1192,643-644,Restriction endonuclease subunit S
+GCF_000013425.1_ASM1342v1_genomic_MGE_26,402601,403590,990,645-647,superantigen-like protein SSL11; FKLRK protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_27,407605,408236,632,655-656,tandem-type lipoprotein Lpl10; Cytosolic protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_28,498397,498573,177,791,
+GCF_000013425.1_ASM1342v1_genomic_MGE_29,548000,548189,190,873,Ser-Asp rich fibrinogen-binding bone sialoprotein-binding protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_30,549945,550549,605,873,Ser-Asp rich fibrinogen-binding bone sialoprotein-binding protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_31,550776,550897,122,874,
+GCF_000013425.1_ASM1342v1_genomic_MGE_32,551292,552652,1361,875,MSCRAMM family adhesin SdrD
+GCF_000013425.1_ASM1342v1_genomic_MGE_33,554497,554914,418,875,MSCRAMM family adhesin SdrD
+GCF_000013425.1_ASM1342v1_genomic_MGE_34,569732,570075,344,905,
+GCF_000013425.1_ASM1342v1_genomic_MGE_35,586513,589006,2494,936-943,LXG domain-containing protein; DUF443 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_36,589012,589837,826,944-946,DUF443 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_37,590692,594654,3963,948-958,DUF443 domain-containing protein; Phage protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_38,613635,613746,112,996,
+GCF_000013425.1_ASM1342v1_genomic_MGE_39,623848,624256,409,1012,
+GCF_000013425.1_ASM1342v1_genomic_MGE_40,655316,656800,1485,1066-1067,ABC transporter permease VraG
+GCF_000013425.1_ASM1342v1_genomic_MGE_41,671532,671646,115,1094,SA0632 family lipoprotein
+GCF_000013425.1_ASM1342v1_genomic_MGE_42,730419,730849,431,1193,
+GCF_000013425.1_ASM1342v1_genomic_MGE_43,745443,745562,120,1221,
+GCF_000013425.1_ASM1342v1_genomic_MGE_44,757479,758673,1195,1240-1243,Excinuclease ABC%2C B subunit; IS5 family IS5 transposase
+GCF_000013425.1_ASM1342v1_genomic_MGE_45,773071,773250,180,1266-1267,Epimerase family protein SAUSA300_0753
+GCF_000013425.1_ASM1342v1_genomic_MGE_46,788701,790201,1501,1292-1294,Phage protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_47,794749,795502,754,1301,MSCRAMM family adhesin clumping factor ClfA
+GCF_000013425.1_ASM1342v1_genomic_MGE_48,796100,797011,912,1302-1303,secreted von Willebrand factor-binding protein precursor
+GCF_000013425.1_ASM1342v1_genomic_MGE_49,799317,799470,154,1307,Extracellular matrix and plasma binding protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_50,799585,799685,101,1307,Extracellular matrix and plasma binding protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_51,815683,815834,152,1355,
+GCF_000013425.1_ASM1342v1_genomic_MGE_52,860460,860601,142,1440,
+GCF_000013425.1_ASM1342v1_genomic_MGE_53,904239,904540,302,1501,oligopeptide ABC transporter permease
+GCF_000013425.1_ASM1342v1_genomic_MGE_54,946702,948490,1789,1575-1579,Phage protein; Putative glycosyl transferases; Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+GCF_000013425.1_ASM1342v1_genomic_MGE_55,970715,970824,110,1617,
+GCF_000013425.1_ASM1342v1_genomic_MGE_56,972175,972458,284,1619,
+GCF_000013425.1_ASM1342v1_genomic_MGE_57,1070901,1071052,152,1787,
+GCF_000013425.1_ASM1342v1_genomic_MGE_58,1074097,1075258,1162,1795-1797,DUF4044 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_59,1076206,1076410,205,1799,
+GCF_000013425.1_ASM1342v1_genomic_MGE_60,1077811,1078529,719,1801-1804,Lmo0937 family membrane protein; XRE family transcriptional regulator
+GCF_000013425.1_ASM1342v1_genomic_MGE_61,1078690,1081422,2733,1804-1810,superantigen-like protein SSL12; superantigen-like protein SSL13; superantigen-like protein SSL14
+GCF_000013425.1_ASM1342v1_genomic_MGE_62,1132171,1132990,820,1898-1899,Lipoprotein
+GCF_000013425.1_ASM1342v1_genomic_MGE_63,1169264,1170174,911,1956,putative cell wall hydrolase LytN
+GCF_000013425.1_ASM1342v1_genomic_MGE_64,1248228,1248659,432,2083-2085,hypothetical protein; Phage protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_65,1248997,1250345,1349,2087-2095,Phage head morphogenesis domain-containing protein; hypothetical protein; Phage protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_66,1250671,1251857,1187,2096-2103,Bacterial toxin 50 domain-containing protein; LSM domain protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_67,1345147,1345323,177,2254-2255,sarA expression modulator MsaC
+GCF_000013425.1_ASM1342v1_genomic_MGE_68,1376394,1376586,193,2320,Extracellular matrix-binding protein ebh
+GCF_000013425.1_ASM1342v1_genomic_MGE_69,1458994,1460562,1569,2411-2415,DUF1672 domain-containing protein; hypothetical protein; Lipoprotein
+GCF_000013425.1_ASM1342v1_genomic_MGE_70,1461189,1461708,520,2415-2417,Lipoprotein; DUF1672 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_71,1462575,1464424,1850,2419-2423,Lipoprotein; Phage protein; putative autolysin PH
+GCF_000013425.1_ASM1342v1_genomic_MGE_72,1464753,1506147,41395,2423-2522,putative autolysin PH; phage holin; DUF2951 domain-containing protein; XkdX family protein; DUF2977 domain-containing protein; BppU N-terminal domain-containing protein; P68 RBP/TagC-like beta propeller domain-containing protein; Phage protein; Peptidase; Siphovirus-type tail component RIFT-related domain-containing protein; lysostaphin; phage tail assembly chaperone G; ORF023; Tail protein; DUF3168 domain-containing protein; PhiSLT protein; head-tail connector protein; phage major capsid protein; ATP-dependent Clp protease proteolytic subunit; phage portal protein; Terminase large subunit; Terminase small subunit; Putative HNH nuclease YajD; Transcriptional regulator; DNA helicase; VRR-NUC domain-containing protein; Conserved hypothetical phage protein; Virulence-associated protein E-like domain-containing protein; DUF1514 domain-containing protein; Hypothetical phage protein; transcriptional activator RinB; DUF1381 domain-containing protein; dUTP diphosphatase; DUF1024 domain-containing protein; YopX protein domain-containing protein; PVL orf 52-like protein; DUF3310 domain-containing protein; PVL family protein; DUF3113 domain-containing protein; DNA polymerase; DUF2815 domain-containing protein; DUF2800 domain-containing protein; Conserved virulence factor B-like winged helix domain-containing protein; Phi PVL ORF 38-like proteinue; DNA-binding protein; SLT orf 71-like protein-related protein; DUF2829 domain-containing protein; Helix-turn-helix domain protein; HTH cro/C1-type domain-containing protein; Exonuclease family
+GCF_000013425.1_ASM1342v1_genomic_MGE_73,1506404,1508583,2180,2524-2530,Staphylokinase; ATPase; Integrase; Lipoprotein
+GCF_000013425.1_ASM1342v1_genomic_MGE_74,1508696,1510306,1611,2530,Lipoprotein
+GCF_000013425.1_ASM1342v1_genomic_MGE_75,1510573,1510691,119,2531,Lipoprotein
+GCF_000013425.1_ASM1342v1_genomic_MGE_76,1721098,1721202,105,2912,
+GCF_000013425.1_ASM1342v1_genomic_MGE_77,1760573,1760776,204,2971,Maebl
+GCF_000013425.1_ASM1342v1_genomic_MGE_78,1776284,1776392,109,2998,
+GCF_000013425.1_ASM1342v1_genomic_MGE_79,1776422,1776806,385,2998,
+GCF_000013425.1_ASM1342v1_genomic_MGE_80,1806075,1806698,624,3038-3040,arsenate reductase (thioredoxin)
+GCF_000013425.1_ASM1342v1_genomic_MGE_81,1809934,1811110,1177,3049-3051,CPBP family intramembrane metalloprotease SdpA
+GCF_000013425.1_ASM1342v1_genomic_MGE_82,1820740,1821656,917,3070-3072,IS200/IS605 family ISSep3 transposase
+GCF_000013425.1_ASM1342v1_genomic_MGE_83,1830337,1831971,1635,3092-3098,IrrE N-terminal-like domain-containing protein; Mobilization protein; Phage protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_84,1832324,1832609,286,3098-3100,Transposase family protein%2C putative
+GCF_000013425.1_ASM1342v1_genomic_MGE_85,1832682,1833058,377,3100,
+GCF_000013425.1_ASM1342v1_genomic_MGE_86,1833222,1840454,7233,3100-3105,DUF1433 domain-containing protein; SMEK domain-containing protein; Restriction endonuclease subunit S
+GCF_000013425.1_ASM1342v1_genomic_MGE_87,1842194,1861344,19151,3107-3138,serine protease SplF; serine protease SplE; serine protease SplD; serine protease SplC; serine protease SplB; serine protease SplA; DUF4888 domain-containing protein; Lantibiotic ABC transporter protein; Membrane protein%2C putative; Lantibiotic immunity protein F; Leader peptide-processing serine protease; Lantibiotic modifying enzyme; Lanthionine synthetase C-like family protein; Epidermin biosynthesis protein epiB; Lantibiotic; bi-component leukocidin LukED subunit D; bi-component leukocidin LukED subunit E
+GCF_000013425.1_ASM1342v1_genomic_MGE_88,1861947,1864266,2320,3139-3142,DUF6978 domain-containing protein; DUF1828 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_89,1897210,1898722,1513,3196-3198,ISL3 family IS1181 transposase
+GCF_000013425.1_ASM1342v1_genomic_MGE_90,1923407,1952842,29436,3228-3295,XRE family transcriptional regulator; ORF187; Phage protein; Endolysin LysH5; phage holin; BppU N-terminal domain-containing protein; Bifunctional autolysin; DUF2951 domain-containing protein; XkdX family protein; DUF2977 domain-containing protein; P68 RBP/TagC-like beta propeller domain-containing protein; Peptidase; Siphovirus-type tail component RIFT-related domain-containing protein; Tape measure protein; Tape measure chaperone; Tail protein; phage major tail protein%2C TP901-1 family; DUF3168 domain-containing protein; HK97-gp10 family putative phage morphogenesis protein; Minor capsid protein; Phi Mu50B-like protein; phage major capsid protein; Capsid assembly scaffolding protein; Phage head morphogenesis domain-containing protein; phage portal protein; PBSX family phage terminase large subunit; Terminase small subunit; Transcriptional activator rinA; transcriptional activator RinB; DUF1381 domain-containing protein; dUTP diphosphatase; ETA orf 33-like protein; DUF1024 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_91,1953071,1964140,11070,3296-3333,Phage family protein; Phage protein; HTH cro/C1-type domain-containing protein; DUF3113 domain-containing protein; DUF1064 domain-containing protein; DUF3269 domain-containing protein; Prophage L54a%2C replicative DNA helicase; Phi PV83 orf 20-like protein; Single-strand DNA-binding protein%2C putative; ATP-binding protein; Bacteriophage Mu Gam-like protein; DUF1108 domain-containing protein; Phi PV83 orf 10-like protein; type II toxin-antitoxin system antitoxin TscA; Bro-N domain-containing protein; Pathogenicity island protein; Phage repressor protein%2C putative
+GCF_000013425.1_ASM1342v1_genomic_MGE_92,1964344,1967012,2669,3334-3343,Cytosolic protein; PV83 orf 4-like protein-related protein; PV83 orf 3-like protein; Excisionase-related protein; Integrase; radical SAM/CxCxxxxC motif protein YfkAB
+GCF_000013425.1_ASM1342v1_genomic_MGE_93,2029192,2029606,415,3452-3455,MAP domain-containing protein; 65 kDa membrane protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_94,2029975,2030179,205,3455,65 kDa membrane protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_95,2033913,2034138,226,3462,
+GCF_000013425.1_ASM1342v1_genomic_MGE_96,2034428,2034689,262,3463-3464,chemotaxis-inhibiting protein CHIPS
+GCF_000013425.1_ASM1342v1_genomic_MGE_97,2035028,2037386,2359,3466-3472,staphylokinase; Autolysin; phage holin
+GCF_000013425.1_ASM1342v1_genomic_MGE_98,2037853,2038314,462,3472-3475,DUF2951 domain-containing protein; Phage protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_99,2039994,2040186,193,3478,Peptidase S74 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_100,2043678,2045246,1569,3480-3481,Siphovirus-type tail component C-terminal domain-containing protein; lysostaphin
+GCF_000013425.1_ASM1342v1_genomic_MGE_101,2046584,2059074,12491,3481-3507,lysostaphin; phage tail assembly chaperone G; BIG2 domain-containing protein; Phage protein; HK97-gp10 family putative phage morphogenesis protein; Phage head-tail adaptor%2C putative; head-tail connector protein; Bacteriophage; phage major capsid protein; HK97 family phage prohead protease; phage portal protein; DUF1056 domain-containing protein; Terminase large subunit; phage terminase small subunit P27 family; Putative HNH nuclease YajD; Nucleoside triphosphate pyrophosphohydrolase family protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_102,2059439,2059837,399,3510-3513,transcriptional activator RinB; DUF1381 domain-containing protein; hypothetical protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_103,2059973,2061922,1950,3515-3522,dUTPase; Phage protein; Phi PVL/orf 52-like protein; Acetyltransferase family protein; YopX protein domain-containing protein; Phage family protein; Phi PVL orf 50-like protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_104,2062248,2067781,5534,3523-3543,DUF3113 domain-containing protein; Phi ETA orf 25-like protein; Phi ETA-like protein; Phage protein; Phage DnaC-like protein; Phage conserved hypothetical protein C-terminal domain-containing protein; SinR family protein; Single-stranded DNA-binding protein; ATP-binding protein; DUF2483 domain-containing protein; DUF1108 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_105,2068400,2069445,1046,3547-3553,Phage protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_106,2069896,2072412,2517,3556-3565,Antirepressor; Phi PVL-like protein; Repressor
+GCF_000013425.1_ASM1342v1_genomic_MGE_107,2072667,2073485,819,3565-3568,Staphylokinase; ATPase
+GCF_000013425.1_ASM1342v1_genomic_MGE_108,2075529,2075628,100,3572,
+GCF_000013425.1_ASM1342v1_genomic_MGE_109,2077991,2078152,162,3576,
+GCF_000013425.1_ASM1342v1_genomic_MGE_110,2079624,2081709,2086,3578-3582,Class I SAM-dependent methyltransferase; Fe/B12 periplasmic-binding domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_111,2083278,2086617,3340,3584-3590,N-acetyltransferase domain-containing protein; hypothetical protein; Terminase small subunit
+GCF_000013425.1_ASM1342v1_genomic_MGE_112,2090414,2090579,166,3597,Membrane anchored protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_113,2094188,2095173,986,3607-3610,accessory gene regulator AgrB; AgrD; quorum-sensing sensor histidine kinase AgrC
+GCF_000013425.1_ASM1342v1_genomic_MGE_114,2157618,2157838,221,3700,
+GCF_000013425.1_ASM1342v1_genomic_MGE_115,2212475,2215012,2538,3810-3814,DNA-invertase hin; SAP domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_116,2237125,2238679,1555,3837-3839,ISL3 family IS1181 transposase
+GCF_000013425.1_ASM1342v1_genomic_MGE_117,2247489,2248307,819,3843-3845,multidrug efflux transporter SepA
+GCF_000013425.1_ASM1342v1_genomic_MGE_118,2293732,2299232,5501,3927-3936,hypothetical protein; AAA+ ATPase domain-containing protein; Phage tail protein; Type ISP restriction-modification enzyme LLaBIII C-terminal specificity domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_119,2371203,2371318,116,4104,
+GCF_000013425.1_ASM1342v1_genomic_MGE_120,2378773,2378943,171,4113,
+GCF_000013425.1_ASM1342v1_genomic_MGE_121,2399162,2400052,891,4151-4153,FosB/FosD family fosfomycin resistance bacillithiol transferase
+GCF_000013425.1_ASM1342v1_genomic_MGE_122,2451025,2451146,122,4246,
+GCF_000013425.1_ASM1342v1_genomic_MGE_123,2451648,2451972,325,4248,
+GCF_000013425.1_ASM1342v1_genomic_MGE_124,2473161,2474396,1236,4283-4285,Formate/nitrite transporter%2C putative
+GCF_000013425.1_ASM1342v1_genomic_MGE_125,2477144,2477878,735,4291-4294,Txe/YoeB family addiction module toxin; Antitoxin
+GCF_000013425.1_ASM1342v1_genomic_MGE_126,2486800,2486913,114,4312,
+GCF_000013425.1_ASM1342v1_genomic_MGE_127,2532370,2532579,210,4379,
+GCF_000013425.1_ASM1342v1_genomic_MGE_128,2533817,2534735,919,4381-4384,Txe/YoeB family addiction module toxin; Antitoxin
+GCF_000013425.1_ASM1342v1_genomic_MGE_129,2553399,2553744,346,4415-4417,DUF1433 domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_130,2557096,2557239,144,4425,Uncharacterized protein SACOL2493
+GCF_000013425.1_ASM1342v1_genomic_MGE_131,2557712,2560432,2721,4426-4432,hypothetical protein; Cytosolic protein; Uncharacterized lipoprotein SACOL2497
+GCF_000013425.1_ASM1342v1_genomic_MGE_132,2561637,2565291,3655,4435-4439,DUF3427 domain-containing protein; 8-oxo-dGTP diphosphatase
+GCF_000013425.1_ASM1342v1_genomic_MGE_133,2568236,2576820,8585,4446-4455,hypothetical protein; MFS transporter; LPXTG-anchored surface protein SasG; HTH-type transcriptional regulator SarT; HTH-type transcriptional regulator SarU
+GCF_000013425.1_ASM1342v1_genomic_MGE_134,2579331,2579820,490,4458,fibronectin-binding protein FnbB
+GCF_000013425.1_ASM1342v1_genomic_MGE_135,2581764,2581874,111,4460,Fibronectin-binding protein A
+GCF_000013425.1_ASM1342v1_genomic_MGE_136,2582787,2583547,761,4460,Fibronectin-binding protein A
+GCF_000013425.1_ASM1342v1_genomic_MGE_137,2596066,2597769,1704,4481-4483,Major facilitator superfamily (MFS) profile domain-containing protein; HTH marR-type domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_138,2610240,2611873,1634,4509-4513,ABC transporter domain-containing protein; Peptide ABC transporter permease
+GCF_000013425.1_ASM1342v1_genomic_MGE_139,2628505,2629890,1386,4548-4550,hypothetical protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_140,2659774,2660601,828,4595-4597,N-acetyltransferase domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_141,2702331,2703333,1003,4678-4680,Metallo-beta-lactamase domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_142,2723244,2723871,628,4711,Clumping factor B%2C adhesin
+GCF_000013425.1_ASM1342v1_genomic_MGE_143,2734479,2735737,1259,4726-4729,immunodominant staphylococcal antigen IsaB; Low-complexity protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_144,2766851,2767272,422,4756,
+GCF_000013425.1_ASM1342v1_genomic_MGE_145,2768477,2768744,268,4759-4760,Lipoprotein; Phage protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_146,2790753,2795399,4647,4797-4805,N-acetyltransferase domain-containing protein; Energy-coupling factor transporter transmembrane protein EcfT; energy-coupling factor transporter ATPase; ECF-type riboflavin transporter substrate-binding protein; DNA-directed RNA polymerase subunit delta
+GCF_000013425.1_ASM1342v1_genomic_MGE_147,2799240,2800518,1279,4813-4816,DUF1129 domain-containing protein; Transcription regulator PadR N-terminal domain-containing protein
+GCF_000013425.1_ASM1342v1_genomic_MGE_148,2807746,2807881,136,4830,
+GCF_000013425.1_ASM1342v1_genomic_MGE_149,2810901,2812436,1536,4835-4839,IS30 family transposase; Phage tail protein

@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# R session state
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Large regenerable SILOSim profiler outputs (see docs/data-availability.md).
+# Stage 01 reads none of these; re-run analysis/00_profile_reference.sh.
+*_snps_sum.RDS
+*_plot_df.RDS
+*_position_coverage.RDS
+# Anchored to "_genomic_entropy.csv" so the per-MGE files
+# (*_genomic_MGE_<n>_entropy.csv), which are kept, are not caught by it.
+*_genomic_entropy.csv
+
+# Isolate-level intermediates. These carry genome-to-cluster links derived from a
+# dataset with patient identifiers and must not be committed; stages 03 and 04
+# write them to MEDICS_LOCUS_SELECTION_DIR, outside the working tree.
+Cluster_combo_*.RDS
+candidate_aln_haplotype.RDS
+haplotype_cluster_stats.RDS
+cluster_haplotype_freq_list.RDS
+cluster_pair_df.RDS
+cluster_pair_sep.RDS
+cand_partition_df.RDS
+best_combo_df.RDS
+SNP_summary*.RDS
+*_MLST_CC.RDS
